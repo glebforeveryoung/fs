@@ -111,34 +111,6 @@
             "date": "20.12.20",
             "price": "25 350",
             "photo": "https://stockx.imgix.net/images/Adidas-Yeezy-Wave-Runner-700-Solid-Grey-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1606323212"
-        },
-        {
-            "id": 17,
-            "name": "Jordan 4 Retro Metallic Orange",
-            "date": "13.04.19",
-            "price": "19 500",
-            "photo": "https://stockx-360.imgix.net/Air-Jordan-4-Retro-Metallic-Orange/Images/Air-Jordan-4-Retro-Metallic-Orange/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1607054634"
-        },
-        {
-            "id": 18,
-            "name": "Jordan 5 Retro SE Oregon",
-            "date": "22.09.18",
-            "price": "29 880",
-            "photo": "https://stockx-360.imgix.net/Air-Jordan-5-Retro-SE-Oregon/Images/Air-Jordan-5-Retro-SE-Oregon/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1606315765"
-        },
-        {
-            "id": 19,
-            "name": "Nike Air Max 90 Reverse Duck Camo (2020)",
-            "date": "12.04.18",
-            "price": "27 540",
-            "photo": "https://stockx.imgix.net/images/Nike-Air-Max-90-Reverse-Duck-Camo-2020.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1606324400"
-        },
-        {
-            "id": 20,
-            "name": "Nike Dunk High Varsity Maize",
-            "date": "01.01.19",
-            "price": "18 300",
-            "photo": "https://stockx-360.imgix.net/Nike-Dunk-High-Black-Varsity-Maize/Images/Nike-Dunk-High-Black-Varsity-Maize/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609445259"
         }
     ],
 "filters": [
@@ -341,6 +313,6 @@
         }
     ],
     "profile": {
-        "name": "typicode"
+        "name": glebforeveryoung
     }
 }
