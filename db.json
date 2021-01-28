@@ -1,0 +1,346 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Jordan 1 Mid Chicago Toe",
+            "date": "20.12.20",
+            "price": "27 990",
+            "photo": "https://stockx-360.imgix.net/Air-Jordan-1-Mid-Chicago-Toe/Images/Air-Jordan-1-Mid-Chicago-Toe/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1608736709"
+        },
+        {
+            "id": 2,
+            "name": "Nike Dunk High Varsity Maize",
+            "date": "20.12.20",
+            "price": "27 990",
+            "photo": "https://stockx-360.imgix.net/Nike-Dunk-High-Black-Varsity-Maize/Images/Nike-Dunk-High-Black-Varsity-Maize/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609445259"
+        },
+        {
+            "id": 3,
+            "name": "Jordan 1 Retro High Royal Toe",
+            "date": "17.07.20",
+            "price": "22 290",
+            "photo": "https://stockx-360.imgix.net/Air-Jordan-1-Retro-High-Black-Game-Royal-Toe/Images/Air-Jordan-1-Retro-High-Black-Game-Royal-Toe/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1606322574"
+        },
+        {
+            "id": 4,
+            "name": "Jordan 12 Retro Black University Gold",
+            "date": "21.05.20",
+            "price": "24 490",
+            "photo": "https://stockx-360.imgix.net/Air-Jordan-12-Retro-Black-University-Gold/Images/Air-Jordan-12-Retro-Black-University-Gold/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1606322059"
+        },
+        {
+            "id": 5,
+            "name": "Nike Air Max 90 Infrared (2020)",
+            "date": "13.04.19",
+            "price": "27 990",
+            "photo": "https://stockx-360.imgix.net/Nike-Air-Max-90-Infrared-2020/Images/Nike-Air-Max-90-Infrared-2020/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609366208"
+        },
+        {
+            "id": 6,
+            "name": "adidas Yeezy Boost 350 V2 Yecheil (Non-Reflective)",
+            "date": "20.12.19",
+            "price": "21 550",
+            "photo": "https://stockx-360.imgix.net/adidas-Yeezy-Boost-350-V2-Yecheil/Images/adidas-Yeezy-Boost-350-V2-Yecheil/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1606325433"
+        },
+        {
+            "id": 7,
+            "name": "Jordan 1 Retro High Satin Snake Chicago (W)",
+            "date": "20.08.20",
+            "price": "12 990",
+            "photo": "https://stockx-360.imgix.net/Air-Jordan-1-Retro-High-Satin-Snake-Chicago-W/Images/Air-Jordan-1-Retro-High-Satin-Snake-Chicago-W/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1606325457"
+        },
+        {
+            "id": 8,
+            "name": "Jordan 5 Retro SE Oregon",
+            "date": "22.09.18",
+            "price": "29 880",
+            "photo": "https://stockx-360.imgix.net/Air-Jordan-5-Retro-SE-Oregon/Images/Air-Jordan-5-Retro-SE-Oregon/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1606315765"
+        },
+        {
+            "id": 9,
+            "name": "Nike Air Max 90 Reverse Duck Camo (2020)",
+            "date": "12.04.18",
+            "price": "27 540",
+            "photo": "https://stockx.imgix.net/images/Nike-Air-Max-90-Reverse-Duck-Camo-2020.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1606324400"
+        },
+        {
+            "id": 10,
+            "name": "Nike Air Max 90 Reverse Laser Blue",
+            "date": "20.12.20",
+            "price": "20 500",
+            "photo": "https://stockx.imgix.net/images/Nike-Air-Max-90-Reverse-Laser-Blue.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1607653719"
+        },
+        {
+            "id": 11,
+            "name": "Nike Dunk High Varsity Maize",
+            "date": "01.01.19",
+            "price": "18 300",
+            "photo": "https://stockx-360.imgix.net/Nike-Dunk-High-Black-Varsity-Maize/Images/Nike-Dunk-High-Black-Varsity-Maize/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609445259"
+        },
+        {
+            "id": 12,
+            "name": "Jordan 11 Retro Playoffs Bred (2019)",
+            "date": "20.12.20",
+            "price": "26 940",
+            "photo": "https://stockx-360.imgix.net/Air-Jordan-11-Retro-Playoffs-2019/Images/Air-Jordan-11-Retro-Playoffs-2019/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1606320266"
+        },
+        {
+            "id": 13,
+            "name": "adidas Yeezy Boost 350 V2 Natural",
+            "date": "13.04.19",
+            "price": "22 990",
+            "photo": "https://stockx-360.imgix.net/adidas-Yeezy-Boost-350-V2-Natural/Images/adidas-Yeezy-Boost-350-V2-Natural/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609349728"
+        },
+        {
+            "id": 14,
+            "name": "adidas Yeezy Boost 350 V2 Core Black White",
+            "date": "20.12.20",
+            "price": "28 490",
+            "photo": "https://stockx-360.imgix.net/adidas-Yeezy-Boost-350-V2-Core-Black-White/Images/adidas-Yeezy-Boost-350-V2-Core-Black-White/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1607647672"
+        },
+        {
+            "id": 15,
+            "name": "Jordan 6 Retro Hare",
+            "date": "17.07.20",
+            "price": "15 990",
+            "photo": "https://stockx-360.imgix.net/Air-Jordan-6-Retro-Hare/Images/Air-Jordan-6-Retro-Hare/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1606162773"
+        },
+        {
+            "id": 16,
+            "name": "adidas Yeezy Boost 700 Wave Runner Solid Grey",
+            "date": "20.12.20",
+            "price": "25 350",
+            "photo": "https://stockx.imgix.net/images/Adidas-Yeezy-Wave-Runner-700-Solid-Grey-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1606323212"
+        },
+        {
+            "id": 17,
+            "name": "Jordan 4 Retro Metallic Orange",
+            "date": "13.04.19",
+            "price": "19 500",
+            "photo": "https://stockx-360.imgix.net/Air-Jordan-4-Retro-Metallic-Orange/Images/Air-Jordan-4-Retro-Metallic-Orange/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1607054634"
+        },
+        {
+            "id": 18,
+            "name": "Jordan 5 Retro SE Oregon",
+            "date": "22.09.18",
+            "price": "29 880",
+            "photo": "https://stockx-360.imgix.net/Air-Jordan-5-Retro-SE-Oregon/Images/Air-Jordan-5-Retro-SE-Oregon/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1606315765"
+        },
+        {
+            "id": 19,
+            "name": "Nike Air Max 90 Reverse Duck Camo (2020)",
+            "date": "12.04.18",
+            "price": "27 540",
+            "photo": "https://stockx.imgix.net/images/Nike-Air-Max-90-Reverse-Duck-Camo-2020.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1606324400"
+        },
+        {
+            "id": 20,
+            "name": "Nike Dunk High Varsity Maize",
+            "date": "01.01.19",
+            "price": "18 300",
+            "photo": "https://stockx-360.imgix.net/Nike-Dunk-High-Black-Varsity-Maize/Images/Nike-Dunk-High-Black-Varsity-Maize/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609445259"
+        }
+    ],
+"filters": [
+        {
+        "id": 1, "name": "sizeFilter", "value": "Размер", "status": true, "list": [
+                {"id": 1, "name": "size3", "value": 3
+                },
+                {"id": 2, "name": "size3,5", "value": 3.5
+                },
+                {"id": 3, "name": "size4", "value": 4
+                },
+                {"id": 4, "name": "size4,5", "value": 4.5
+                },
+                {"id": 5, "name": "size5", "value": 5
+                },
+                {"id": 6, "name": "size5,5", "value": 5.5
+                },
+                {"id": 7, "name": "size6", "value": 6
+                },
+                {"id": 8, "name": "size6,5", "value": 6.5
+                },
+                {"id": 9, "name": "size7", "value": 7
+                },
+                {"id": 10, "name": "size7,5", "value": 7.5
+                },
+                {"id": 11, "name": "size8", "value": 8
+                },
+                {"id": 12, "name": "size8,5", "value": 8.5
+                },
+                {"id": 13, "name": "size9", "value": 9
+                },
+                {"id": 14, "name": "size9,5", "value": 9.5
+                },
+                {"id": 15, "name": "size10", "value": 10
+                },
+                {"id": 16, "name": "size10,5", "value": 10.5
+                },
+                {"id": 17, "name": "size11", "value": 11
+                },
+                {"id": 18, "name": "size11,5", "value": 11.5
+                },
+                {"id": 19, "name": "size12", "value": 12
+                },
+                {"id": 20, "name": "size12,5", "value": 12.5
+                },
+                {"id": 21, "name": "size13,5", "value": 13.5
+                },
+                {"id": 22, "name": "size14", "value": 14
+                }
+            ]
+        },
+        {
+        "id": 2, "name": "brandFilter", "value": "Бренд", "status": true, "list": [
+                {"id": 1, "name": "brandNike", "value": "Nike"
+                },
+                {"id": 2, "name": "brandAdidas", "value": "adidas"
+                },
+                {"id": 3, "name": "brandJordan", "value": "Jordan"
+                },
+                {"id": 4, "name": "brandReebok", "value": "Reebok"
+                },
+                {"id": 5, "name": "brandNewBalance", "value": "New Balance"
+                },
+                {
+                "id": 6,
+                "name": "brandPuma",
+                "value": "Puma"
+                },
+                {"id": 7, "name": "brandYeezy", "value": "Yeezy"
+                },
+                {"id": 8, "name": "brandVans", "value": "Vans"
+                },
+                {"id": 9, "name": "brandTimberland", "value": "Timberland"
+                },
+                {
+                "id": 10,
+                "name": "brandCalvinKlein",
+                "value": "Calvin Klein"
+                },
+                {"id": 11, "name": "brandConverse", "value": "Converse"
+                },
+                {"id": 12, "name": "brandFila", "value": "Fila"
+                },
+                {"id": 13, "name": "brandLacoste", "value": "Lacoste"
+                },
+                {
+                "id": 14,
+                "name": "brandMerrell",
+                "value": "Merrell"
+                },
+                {"id": 15, "name": "brandSaucony", "value": "Saucony"
+                },
+                {
+                "id": 16,
+                "name": "brandSkechers",
+                "value": "Skechers"
+                },
+                {"id": 17, "name": "brandTommyHilfiger", "value": "TommyHilfiger"
+                },
+                {
+                "id": 18,
+                "name": "brandUnderArmour",
+                "value": "UnderArmour"
+                },
+                {"id": 19, "name": "brandDC", "value": "DC"
+                },
+                {"id": 20, "name": "brandBalenciaga", "value": "Balenciaga"
+                },
+                {"id": 21, "name": "brandKappa", "value": "Kappa"
+                },
+                {"id": 22, "name": "brandAsics", "value": "Asics"
+                }
+            ]
+        },
+        {
+        "id": 3, "name": "modelFilter", "value": "Модель", "status": true, "list": [
+                {"id": 1, "name": "modelAirMax270", "value": "Air Max 270"
+                },
+                {"id": 2, "name": "modelAirForce1Low", "value": "Air Force 1 Low"
+                },
+                {"id": 3, "name": "modelAirJordan4", "value": "Air Jordan 4"
+                },
+                {"id": 4, "name": "modelYeezyBoostV2", "value": "Yeezy Boost v.2"
+                },
+                {"id": 5, "name": "modelAirMax97", "value": "Air Max 97"
+                },
+                {"id": 6, "name": "modelChuckTaylorOX", "value": "Chuck Taylor OX"
+                },
+                {"id": 7, "name": "modelWard", "value": "Ward"
+                },
+                {"id": 8, "name": "modelAirJordan11", "value": "Air Jordan 11"
+                },
+                {"id": 9, "name": "modelNMD_R1", "value": "NMD_R1"
+                },
+                {"id": 10, "name": "modelTanjun", "value": "Tanjun"
+                }
+            ]
+        },
+        {"id": 4, "name": "priceFilter", "status": false, "value": "Цена"
+        }
+    ],
+"lastAdded": [
+        {
+        "id": 1,
+        "name": "Jordan 1 Mid Chicago Toe",
+        "date": "20.12.20",
+        "price": "27 990",
+        "photo": "https://stockx-360.imgix.net/Air-Jordan-1-Mid-Chicago-Toe/Images/Air-Jordan-1-Mid-Chicago-Toe/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1608736709"
+        },
+        {
+        "id": 2,
+        "name": "Nike Dunk High Varsity Maize",
+        "date": "20.12.20",
+        "price": "27 990",
+        "photo": "https://stockx-360.imgix.net/Nike-Dunk-High-Black-Varsity-Maize/Images/Nike-Dunk-High-Black-Varsity-Maize/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609445259"
+        },
+        {
+        "id": 3,
+        "name": "Jordan 1 Retro High Royal Toe",
+        "date": "17.07.20",
+        "price": "22 290",
+        "photo": "https://stockx-360.imgix.net/Air-Jordan-1-Retro-High-Black-Game-Royal-Toe/Images/Air-Jordan-1-Retro-High-Black-Game-Royal-Toe/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1606322574"
+        },
+        {
+        "id": 4,
+        "name": "Jordan 12 Retro Black University Gold",
+        "date": "21.05.20",
+        "price": "24 490",
+        "photo": "https://stockx-360.imgix.net/Air-Jordan-12-Retro-Black-University-Gold/Images/Air-Jordan-12-Retro-Black-University-Gold/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1606322059"
+        }
+    ],
+"lastReleases": [
+        {
+        "id": 1,
+        "name": "Jordan 11 Retro Playoffs Bred (2019)",
+        "date": "20.12.20",
+        "price": "26 940",
+        "photo": "https://stockx-360.imgix.net/Air-Jordan-11-Retro-Playoffs-2019/Images/Air-Jordan-11-Retro-Playoffs-2019/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1606320266"
+        },
+        {
+        "id": 2,
+        "name": "adidas Yeezy Boost 350 V2 Natural",
+        "date": "13.04.19",
+        "price": "22 990",
+        "photo": "https://stockx-360.imgix.net/adidas-Yeezy-Boost-350-V2-Natural/Images/adidas-Yeezy-Boost-350-V2-Natural/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609349728"
+        },
+        {
+        "id": 3,
+        "name": "adidas Yeezy Boost 350 V2 Core Black White",
+        "date": "20.12.20",
+        "price": "28 490",
+        "photo": "https://stockx-360.imgix.net/adidas-Yeezy-Boost-350-V2-Core-Black-White/Images/adidas-Yeezy-Boost-350-V2-Core-Black-White/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1607647672"
+        },
+        {
+        "id": 4,
+        "name": "Jordan 6 Retro Hare",
+        "date": "17.07.20",
+        "price": "15 990",
+        "photo": "https://stockx-360.imgix.net/Air-Jordan-6-Retro-Hare/Images/Air-Jordan-6-Retro-Hare/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1606162773"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
